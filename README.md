@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming, VR development, Game development, Functional development (Real world)
 - 🌱 I’m currently learning Python, C, Java, Prolog, Haskell
 - 💞️ I’m looking to collaborate on VR projects
-- 📫 How to reach me @theky.lien@gmail.com
+- 📫 How to reach me @theky.lien@gmail.com, https://www.linkedin.com/in/theky-lien-780621b1/
 
 <!---
 deckaii/deckaii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
